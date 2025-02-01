@@ -6,7 +6,7 @@
 
 - :school: I am a `Computer Networks and Communication Systems` from the Faculty of science at Sfax
 - 🔭 I’m currently working as a Senior Front-end Developer Web Integration Specialist
-- 🌱 I’m currently studying `Testing` and `React & Typescript`
+- 🌱 I’m currently studying `Testing` and `React`
 - 📫 How to reach me **Sakhrii.noura@gmail.com**
 - :thinking: I’m currently open for a new `job opportunity`
 - 🐼 Doing my best 
