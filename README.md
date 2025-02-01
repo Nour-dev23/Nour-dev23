@@ -4,7 +4,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Master's in Computer Networks and Communication Systems` from the Faculty of science at Sfax
+- :school: I am a `Computer Networks and Communication Systems` from the Faculty of science at Sfax
 - 🔭 I’m currently working as a senior web integrator
 - 🌱 I’m currently studying `Testing` and `React & Typescript`
 - 📫 How to reach me **Sakhrii.noura@gmail.com**
